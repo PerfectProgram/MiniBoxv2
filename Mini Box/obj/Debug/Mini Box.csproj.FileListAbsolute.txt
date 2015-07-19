@@ -1,0 +1,41 @@
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\Mini Box.exe.config
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\Mini Box.exe
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\Mini Box.pdb
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini_Box.Form1.resources
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini_Box.Properties.Resources.resources
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini Box.csproj.GenerateResource.Cache
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini Box.exe
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini Box.pdb
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini_Box.FormSoru.resources
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini Box.exe.licenses
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\obj\Debug\Mini_Box.mermi.resources
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Medusa058\Desktop\Mini Box\Mini Box\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
